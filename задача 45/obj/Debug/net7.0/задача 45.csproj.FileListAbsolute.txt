@@ -3,3 +3,13 @@ C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с сем�
 C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\задача 45.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\задача 45.AssemblyInfo.cs
 C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\задача 45.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\bin\Debug\net7.0\задача 45.exe
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\bin\Debug\net7.0\задача 45.deps.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\bin\Debug\net7.0\задача 45.runtimeconfig.json
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\bin\Debug\net7.0\задача 45.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\bin\Debug\net7.0\задача 45.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\задача 45.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\refint\задача 45.dll
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\задача 45.pdb
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\задача 45.genruntimeconfig.cache
+C:\Users\user\Desktop\GeekBrains\Csharp\Семинары\Задачи с семинаров\семинар 6\задача 45\obj\Debug\net7.0\ref\задача 45.dll
